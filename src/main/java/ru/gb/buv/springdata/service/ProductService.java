@@ -1,3 +1,4 @@
+
 package ru.gb.buv.springdata.service;
 
 import org.springframework.beans.factory.annotation.Autowired;

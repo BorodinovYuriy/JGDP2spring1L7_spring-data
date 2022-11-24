@@ -1,3 +1,4 @@
+
 package ru.gb.buv.springdata.entity;
 
 import lombok.Data;
